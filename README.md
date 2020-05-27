@@ -1,2 +1,2 @@
 Demo 
- https://iheathers.github.io/Looplab/.
+ https://iheathers.github.io/glozzum/.
